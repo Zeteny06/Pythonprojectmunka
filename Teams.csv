@@ -1,266 +1,386 @@
-﻿Név;Mezszám;Kor;Pozíció;Csapat
-Arrizabalaga Kepa;1;28;Kapus;Chelsea
-Mendy Edouard;16;30;Kapus;Chelsea
-Azpilicueta Cesar;28;33;Védő;Chelsea
-Chalobah Trevoh;14;23;Védő;Chelsea
-Chilwell Ben;21;25;Védő;Chelsea
-Cucurella Marc;32;24;Védő;Chelsea
-Fofana Wesley;33;21;Védő;Chelsea
-James Reece;24;22;Védő;Chelsea
-Koulibaly Kalidou;26;31;Védő;Chelsea
-Silva Thiago;6;38;Védő;Chelsea
-Chukwuemeka Carney;30;19;Középpályás;Chelsea
-Gallagher Conor;23;22;Középpályás;Chelsea
-Havertz Kai;29;23;Középpályás;Chelsea
-Jorginho;5;30;Középpályás;Chelsea
-Kante N'Golo;7;31;Középpályás;Chelsea
-Kovacic Mateo;8;28;Középpályás;Chelsea
-Loftus-Cheek Ruben;12;26;Középpályás;Chelsea
-Mount Mason;19;23;Középpályás;Chelsea
-Pulisic Christian;10;24;Középpályás;Chelsea
-Ziyech Hakim;22;29;Középpályás;Chelsea
-Aubameyang Pierre-Emerick;9;33;Csatár;Chelsea
-Broja Armando;18;21;Csatár;Chelsea
-Sterling Raheem;17;27;Csatár;Chelsea
-Potter Graham;-;47;Edző;Chelsea
-Maignan Mike;16;27;Kapus;AC Milan
-Tatarusanu Ciprian;1;36;Kapus;AC Milan
-Ballo-Toure Fode;5;25;Védő;AC Milan
-Calabria Davide;2;25;Védő;AC Milan
-Dest Sergino;21;21;Védő;AC Milan
-Florenzi Alessandro;25;31;Védő;AC Milan
-Gabbia Matteo;46;23;Védő;AC Milan
-Hernandez Theo;19;25;Védő;AC Milan
-Kalulu Pierre;20;22;Védő;AC Milan
-Kjaer Simon;24;33;Védő;AC Milan
-Thiaw Malick;28;21;Védő;AC Milan
-Tomori Fikayo;23;24;Védő;AC Milan
-Adli Yacine;7;22;Középpályás;AC Milan
-Bennacer Ismael;4;24;Középpályás;AC Milan
-De Ketelaere Charles;90;21;Középpályás;AC Milan
-Diaz Brahim;10;23;Középpályás;AC Milan
-Krunic Rade;33;29;Középpályás;AC Milan
-Pobega Tommaso;32;23;Középpályás;AC Milan
-Saelemaekers Alexis;56;23;Középpályás;AC Milan
-Tonali Sandro;8;22;Középpályás;AC Milan
-Vranckx Aster;40;20;Középpályás;AC Milan
-Giroud Olivier;9;36;Csatár;AC Milan
-Leao Rafael;17;23;Csatár;AC Milan
-Messias Junior;30;31;Csatár;AC Milan
-Origi Divock;27;27;Csatár;AC Milan
-Rebic Ante;12;29;Csatár;AC Milan
-Pioli Stefano;-;57;Edző;AC Milan
-Kohn Philipp;18;24;Kapus;Salzburg
-Baidoo Samson;33;18;Védő;Salzburg
-Bernardo;95;27;Védő;Salzburg
-Dedic Amar;70;20;Védő;Salzburg
-Gourna-Douath Lucas;27;19;Védő;Salzburg
-Pavlovic Strahinja;31;21;Védő;Salzburg
-Piatkowski Kamil;4;22;Védő;Salzburg
-Solet Oumar;22;22;Védő;Salzburg
-Ulmer Andreas;17;37;Védő;Salzburg
-Van der Brempt Ignace;2;20;Védő;Salzburg
-Wober Maximilian;39;24;Védő;Salzburg
-Agyekum Lawrence;35;18;Középpályás;Salzburg
-Bernede Antoine;10;19;Középpályás;Salzburg
-Capaldo Nicolas;7;24;Középpályás;Salzburg
-Diambou Mamady;15;19;Középpályás;Salzburg
-Diarra Youba;24;24;Középpályás;Salzburg
-Kjaergaard Maurits;14;19;Középpályás;Salzburg
-Seiwald Nicolas;13;21;Középpályás;Salzburg
-Sucic Luka;21;20;Középpályás;Salzburg
-Adamu Junior;9;21;Csat r;Salzburg
-Fernando;11;23;Csat r;Salzburg
-Koita Sekou;20;22;Csat r;Salzburg
-Okafor Noah;77;22;Csat r;Salzburg
-Sesko Benj min;30;19;Csat r;Salzburg
-Simic Roko;23;19;Csat r;Salzburg
-Jaissle Matthias;-;34;Edző;Salzburg
-Livakovic Dominik;40;27;Kapus;Dinamo Zagreb
-Bockaj Petar;12;26;Védő;Dinamo Zagreb
-Dilaver Emir;66;31;Védő;Dinamo Zagreb
-Lauritsen Rasmus;6;26;Védő;Dinamo Zagreb
-Peric Dino;55;28;Védő;Dinamo Zagreb
-Ristovski Stefan;13;30;Védő;Dinamo Zagreb
-Sutalo Bosko;4;22;Védő;Dinamo Zagreb
-Sutalo Josip;37;22;Védő;Dinamo Zagreb
-Theophile-Catherine Kevin;28;33;Védő;Dinamo Zagreb
-Ademi Arijan;5;31;Középpályás;Dinamo Zagreb
-Baturina Martin;10;19;Középpályás;Dinamo Zagreb
-Bulat M rk˘;31;21;Középpályás;Dinamo Zagreb
-Ivanusec Luka;7;23;Középpályás;Dinamo Zagreb
-Ljubicic Robert;14;23;Középpályás;Dinamo Zagreb
-Misic Josip;27;28;Középpályás;Dinamo Zagreb
-Moharrami Sadegh;2;26;Középpályás;Dinamo Zagreb
-Stefulj Daniel;3;22;Középpályás;Dinamo Zagreb
-Drmic Josip;18;30;Csatár;Dinamo Zagreb
-Emreli Mahir;11;25;Csatár;Dinamo Zagreb
-Marin Antonio;20;21;Csatár;Dinamo Zagreb
-Menalo Luka;70;26;Csatár;Dinamo Zagreb
-Orsic Mislav;99;29;Csatár;Dinamo Zagreb
-Petkovic Bruno;9;28;Csatár;Dinamo Zagreb
-Spikic Dario;77;23;Csatár;Dinamo Zagreb
-Cacic Ante;-;69;Edző;Dinamo Zagreb
-Courtois Thibaut;1;30;Kapus;Real Madrid
-Lunin Andriy;13;23;Kapus;Real Madrid
-Alaba David;4;30;Védő;Real Madrid
-Carvajal Daniel;2;30;Védő;Real Madrid
-Fernandez Nacho;6;32;Védő;Real Madrid
-Mendy Ferland;23;27;Védő;Real Madrid
-Militao Eder;3;24;Védő;Real Madrid
-Rdiger Antonio;22;29;Védő;Real Madrid
-Camavinga Eduardo;12;19;Középpályás;Real Madrid
-Ceballos Daniel;19;26;Középpályás;Real Madrid
-Kroos Toni;8;32;Középpályás;Real Madrid
-Modric Luka;10;37;Középpályás;Real Madrid
-Tchouameni Aurelien;18;22;Középpályás;Real Madrid
-Valverde Federico;15;24;Középpályás;Real Madrid
-Vazquez Lucas;17;31;Középpályás;Real Madrid
-Asensio Marco;11;26;Csatár;Real Madrid
-Benzema Karim;9;34;Csatár;Real Madrid
-Diaz Mariano;24;29;Csatár;Real Madrid
-Hazard Eden;7;31;Csatár;Real Madrid
-Rodrygo;21;21;Csatár;Real Madrid
-Vinicius Junior;20;22;Csatár;Real Madrid
-Ancelotti Carlo;-;63;Edző;Real Madrid
-Blaswich Janis;21;31;Kapus;RB Leipzig
-Gul csi P‚ter;1;32;Kapus;RB Leipzig
-Nyland Orjan;13;32;Kapus;RB Leipzig
-Diallo Abdou;37;26;Védő;RB Leipzig
-Gvardiol Josko;32;20;Védő;RB Leipzig
-Halstenberg Marcel;23;31;Védő;RB Leipzig
-Klostermann Lukas;16;26;Védő;RB Leipzig
-Orban Willi;4;29;Védő;RB Leipzig
-Simakan Mohamed;2;22;Védő;RB Leipzig
-Haidara Amadou;8;24;Középpályás;RB Leipzig
-Henrichs Benjamin;39;25;Középpályás;RB Leipzig
-Kampl Kevin;44;32;Középpályás;RB Leipzig
-Laimer Konrad;27;25;Középpályás;RB Leipzig
-Nkunku Christopher;18;24;Középpályás;RB Leipzig
-Olmo Dani;7;24;Középpályás;RB Leipzig
-Raum David;22;24;Középpályás;RB Leipzig
-Schlager Xaver;24;25;Középpályás;RB Leipzig
-Szoboszlai Dominik;17;22;Középpályás;RB Leipzig
-Forsberg Emil;10;31;Csatár;RB Leipzig
-Novoa Ramos Hugo;38;19;Csatár;RB Leipzig
-Poulsen Yussuf;9;28;Csatár;RB Leipzig
-Silva Andre;19;26;Csatár;RB Leipzig
-Werner Timo;11;26;Csatár;RB Leipzig
-Rose Marco;-;46;Edző;RB Leipzig
-Trubin Anatolii;81;21;Kapus;Sahtar Donyeck
-Bondar Valeriy;5;23;Védő;Sahtar Donyeck
-Konoplya Yukhym;26;23;Védő;Sahtar Donyeck
-Korniienko Viktor;99;23;Védő;Sahtar Donyeck
-Kryvtsov Sergiy;4;31;Védő;Sahtar Donyeck
-Lucas Taylor;23;27;Védő;Sahtar Donyeck
-Matviienko Mykola;22;26;Védő;Sahtar Donyeck
-Bondarenko Artem;21;22;Középpályás;Sahtar Donyeck
-Djurasek Neven;17;24;Középpályás;Sahtar Donyeck
-Kryskiv Dmytro;16;22;Középpályás;Sahtar Donyeck
-Mykhaylichenko Bogdan;15;25;Középpályás;Sahtar Donyeck
-Nazaryna Yehor;29;25;Középpályás;Sahtar Donyeck
-Ocheretko Oleg;27;19;Középpályás;Sahtar Donyeck
-Stepanenko Taras;6;33;Középpályás;Sahtar Donyeck
-Sudakov Georgiy;8;20;Középpályás;Sahtar Donyeck
-Totovytsky Andriy;7;29;Középpályás;Sahtar Donyeck
-Mudryk Mykhailo;10;21;Csatár;Sahtar Donyeck
-Petrjak Ivan;34;28;Csatár;Sahtar Donyeck
-Shved Marian;9;25;Csatár;Sahtar Donyeck
-Sikan Danylo;14;21;Csatár;Sahtar Donyeck
-Traore Lassina;2;21;Csatár;Sahtar Donyeck
-Zubkov Oleksandr;11;26;Csatár;Sahtar Donyeck
-Jovicevic Igor;-;48;Edző;Sahtar Donyeck
-Vlachodimos Odysseas;99;28;Kapus;Benfica
-Bah Alexander;6;24;Védő;Benfica
-Brooks John;25;29;Védő;Benfica
-Gilberto;2;29;Védő;Benfica
-Grimaldo Alejandro;3;27;Védő;Benfica
-Morato;31;21;Védő;Benfica
-Otamendi Nicolas;30;34;Védő;Benfica
-Ristic Mihailo;23;27;Védő;Benfica
-Silva Antonio;66;19;Védő;Benfica
-Aursnes Fredrik;8;26;Középpályás;Benfica
-Chiquinho;22;27;Középpályás;Benfica
-Draxler Julian;93;29;Középpályás;Benfica
-Fernandez Enzo;13;21;Középpályás;Benfica
-Florentino;61;23;Középpályás;Benfica
-Joao Mario;20;29;Középpályás;Benfica
-Rafa Silva;27;29;Középpályás;Benfica
-Goncalves Diogo;17;25;Csatár;Benfica
-Henrique Araujo;39;20;Csatár;Benfica
-Musa Petar;33;24;Csatár;Benfica
-Neres David;7;25;Csatár;Benfica
-Pinho Rodrigo;18;31;Csatár;Benfica
-Ramos Goncalo;88;21;Csatár;Benfica
-Schmidt Roger;-;55;Edző;Benfica
-Donnarumma Gianluigi;99;23;Kapus;PSG
-Bernat Juan;14;29;Védő;PSG
-Bitshiabu El Chadaille;31;17;Védő;PSG
-Hakimi Achraf;2;24;Védő;PSG
-Kimpembe Presnel;3;27;Védő;PSG
-Marquinhos;5;28;Védő;PSG
-Mendes Nuno;25;20;Védő;PSG
-Mukiele Nordi;26;25;Védő;PSG
-Ramos Sergio;4;36;Védő;PSG
-Pereira Danilo;15;31;Középpályás;PSG
-Ruiz Fabian;8;26;Középpályás;PSG
-Sanches Renato;18;25;Középpályás;PSG
-Sarabia Pablo;19;30;Középpályás;PSG
-Soler Carlos;28;25;Középpályás;PSG
-Verratti Marco;6;30;Középpályás;PSG
-Vitinha;17;22;Középpályás;PSG
-Zaire-Emery Warren;33;16;Középpályás;PSG
-Ekitike Hugo;44;20;Csatár;PSG
-Mbappe Kylian;7;23;Csatár;PSG
-Messi Lionel;30;35;Csatár;PSG
-Neymar;10;30;Csatár;PSG
-Galtier Christophe;-;56;Edző;PSG
-Perin Mattia;36;29;Kapus;Juventus
-Szczesny Wojciech;1;32;Kapus;Juventus
-Alex Sandro;12;31;Védő;Juventus
-Bonucci Leonardo;19;35;Védő;Juventus
-Bremer;3;25;Védő;Juventus
-Cuadrado Juan;11;34;Védő;Juventus
-Danilo;6;31;Védő;Juventus
-De Sciglio Mattia;2;30;Védő;Juventus
-Gatti Federico;15;24;Védő;Juventus
-Rugani Daniele;24;28;Védő;Juventus
-Fagioli Nicolo;44;21;Középpályás;Juventus
-Locatelli Manuel;5;24;Középpályás;Juventus
-McKennie Weston;8;24;Középpályás;Juventus
-Miretti Fabio;20;19;Középpályás;Juventus
-Paredes Leandro;32;28;Középpályás;Juventus
-Rabiot Adrien;25;27;Középpályás;Juventus
-Chiesa Federico;7;25;Csatár;Juventus
-Di Maria Angel;22;34;Csatár;Juventus
-Iling Samuel;43;19;Csatár;Juventus
-Kean Moise;18;22;Csatár;Juventus
-Kostic Filip;17;30;Csatár;Juventus
-Milik Arkadiusz;14;28;Csatár;Juventus
-Soule Matias;30;19;Csatár;Juventus
-Vlahovic Dusan;9;22;Csatár;Juventus
-Allegri Massimiliano;-;55;Edző;Juventus
-Cohen Josh;44;30;Kapus;Maccabi Haifa
-Mishpati Roi;90;29;Kapus;Maccabi Haifa
-Arad Ofri;15;24;Védő;Maccabi Haifa
-Batubinsika Dylan;19;26;Védő;Maccabi Haifa
-Cornud Pierre;21;25;Védő;Maccabi Haifa
-Eliyahu Inon;36;29;Védő;Maccabi Haifa
-Gershon Rami;55;34;Védő;Maccabi Haifa
-Goldberg Shon;3;27;Védő;Maccabi Haifa
-Seck Abdoulaye;30;30;Védő;Maccabi Haifa
-Sundgren Daniel;2;31;Védő;Maccabi Haifa
-Abu Fani Mohammed;16;24;Középpályás;Maccabi Haifa
-Atzili Omer;7;29;Középpályás;Maccabi Haifa
-Chery Tjarron;10;34;Középpályás;Maccabi Haifa
-Lavi Neta;6;26;Középpályás;Maccabi Haifa
-Levi Maor;33;22;Középpályás;Maccabi Haifa
-Meir Raz;22;25;Középpályás;Maccabi Haifa
-Menahem Sun;12;29;Középpályás;Maccabi Haifa
-Mohamed Ali;4;27;Középpályás;Maccabi Haifa
-David Dean;21;26;Csatár;Maccabi Haifa
-Haziza Dolev;8;27;Csatár;Maccabi Haifa
-Pierrot Frantzdy;9;25;Csatár;Maccabi Haifa
-Rukavytsya Nikita;13;35;Csatár;Maccabi Haifa
-Tchibota Mavis;11;26;Csatár;Maccabi Haifa
-Bakhar Barak;-;43;Edző;Maccabi Haifa
+"N�v	Mezsz�m	Kor	Poz�ci�	Csapat"
+"Arrizabalaga Kepa	1	28	Kapus	Chelsea"
+"Mendy Edouard	16	30	Kapus	Chelsea"
+"Azpilicueta Cesar	28	33	V�d�	Chelsea"
+"Chalobah Trevoh	14	23	V�d�	Chelsea"
+"Chilwell Ben	21	25	V�d�	Chelsea"
+"Cucurella Marc	32	24	V�d�	Chelsea"
+"Fofana Wesley	33	21	V�d�	Chelsea"
+"James Reece	24	22	V�d�	Chelsea"
+"Koulibaly Kalidou	26	31	V�d�	Chelsea"
+"Silva Thiago	6	38	V�d�	Chelsea"
+"Chukwuemeka Carney	30	19	K�z�pp�ly�s	Chelsea"
+"Gallagher Conor	23	22	K�z�pp�ly�s	Chelsea"
+"Havertz Kai	29	23	K�z�pp�ly�s	Chelsea"
+"Jorginho	5	30	K�z�pp�ly�s	Chelsea"
+"Kante N'Golo	7	31	K�z�pp�ly�s	Chelsea"
+"Kovacic Mateo	8	28	K�z�pp�ly�s	Chelsea"
+"Loftus-Cheek Ruben	12	26	K�z�pp�ly�s	Chelsea"
+"Mount Mason	19	23	K�z�pp�ly�s	Chelsea"
+"Pulisic Christian	10	24	K�z�pp�ly�s	Chelsea"
+"Ziyech Hakim	22	29	K�z�pp�ly�s	Chelsea"
+"Aubameyang Pierre-Emerick	9	33	Csat�r	Chelsea"
+"Broja Armando	18	21	Csat�r	Chelsea"
+"Sterling Raheem	17	27	Csat�r	Chelsea"
+"Potter Graham	-	47	Edz�	Chelsea"
+"Maignan Mike	16	27	Kapus	AC Milan"
+"Tatarusanu Ciprian	1	36	Kapus	AC Milan"
+"Ballo-Toure Fode	5	25	V�d�	AC Milan"
+"Calabria Davide	2	25	V�d�	AC Milan"
+"Dest Sergino	21	21	V�d�	AC Milan"
+"Florenzi Alessandro	25	31	V�d�	AC Milan"
+"Gabbia Matteo	46	23	V�d�	AC Milan"
+"Hernandez Theo	19	25	V�d�	AC Milan"
+"Kalulu Pierre	20	22	V�d�	AC Milan"
+"Kjaer Simon	24	33	V�d�	AC Milan"
+"Thiaw Malick	28	21	V�d�	AC Milan"
+"Tomori Fikayo	23	24	V�d�	AC Milan"
+"Adli Yacine	7	22	K�z�pp�ly�s	AC Milan"
+"Bennacer Ismael	4	24	K�z�pp�ly�s	AC Milan"
+"De Ketelaere Charles	90	21	K�z�pp�ly�s	AC Milan"
+"Diaz Brahim	10	23	K�z�pp�ly�s	AC Milan"
+"Krunic Rade	33	29	K�z�pp�ly�s	AC Milan"
+"Pobega Tommaso	32	23	K�z�pp�ly�s	AC Milan"
+"Saelemaekers Alexis	56	23	K�z�pp�ly�s	AC Milan"
+"Tonali Sandro	8	22	K�z�pp�ly�s	AC Milan"
+"Vranckx Aster	40	20	K�z�pp�ly�s	AC Milan"
+"Giroud Olivier	9	36	Csat�r	AC Milan"
+"Leao Rafael	17	23	Csat�r	AC Milan"
+"Messias Junior	30	31	Csat�r	AC Milan"
+"Origi Divock	27	27	Csat�r	AC Milan"
+"Rebic Ante	12	29	Csat�r	AC Milan"
+"Pioli Stefano	-	57	Edz�	AC Milan"
+"Kohn Philipp	18	24	Kapus	Salzburg"
+"Baidoo Samson	33	18	V�d�	Salzburg"
+"Bernardo	95	27	V�d�	Salzburg"
+"Dedic Amar	70	20	V�d�	Salzburg"
+"Gourna-Douath Lucas	27	19	V�d�	Salzburg"
+"Pavlovic Strahinja	31	21	V�d�	Salzburg"
+"Piatkowski Kamil	4	22	V�d�	Salzburg"
+"Solet Oumar	22	22	V�d�	Salzburg"
+"Ulmer Andreas	17	37	V�d�	Salzburg"
+"Van der Brempt Ignace	2	20	V�d�	Salzburg"
+"Wober Maximilian	39	24	V�d�	Salzburg"
+"Agyekum Lawrence	35	18	K�z�pp�ly�s	Salzburg"
+"Bernede Antoine	10	19	K�z�pp�ly�s	Salzburg"
+"Capaldo Nicolas	7	24	K�z�pp�ly�s	Salzburg"
+"Diambou Mamady	15	19	K�z�pp�ly�s	Salzburg"
+"Diarra Youba	24	24	K�z�pp�ly�s	Salzburg"
+"Kjaergaard Maurits	14	19	K�z�pp�ly�s	Salzburg"
+"Seiwald Nicolas	13	21	K�z�pp�ly�s	Salzburg"
+"Sucic Luka	21	20	K�z�pp�ly�s	Salzburg"
+"Adamu Junior	9	21	Csat�r	Salzburg"
+"Fernando	11	23	Csat�r	Salzburg"
+"Koita Sekou	20	22	Csat�r	Salzburg"
+"Okafor Noah	77	22	Csat�r	Salzburg"
+"Sesko Benj�min	30	19	Csat�r	Salzburg"
+"Simic Roko	23	19	Csat�r	Salzburg"
+"Jaissle Matthias	-	34	Edz�	Salzburg"
+"Livakovic Dominik	40	27	Kapus	Dinamo Zagreb"
+"Bockaj Petar	12	26	V�d�	Dinamo Zagreb"
+"Dilaver Emir	66	31	V�d�	Dinamo Zagreb"
+"Lauritsen Rasmus	6	26	V�d�	Dinamo Zagreb"
+"Peric Dino	55	28	V�d�	Dinamo Zagreb"
+"Ristovski Stefan	13	30	V�d�	Dinamo Zagreb"
+"Sutalo Bosko	4	22	V�d�	Dinamo Zagreb"
+"Sutalo Josip	37	22	V�d�	Dinamo Zagreb"
+"Theophile-Catherine Kevin	28	33	V�d�	Dinamo Zagreb"
+"Ademi Arijan	5	31	K�z�pp�ly�s	Dinamo Zagreb"
+"Baturina Martin	10	19	K�z�pp�ly�s	Dinamo Zagreb"
+"Bulat M�rk�	31	21	K�z�pp�ly�s	Dinamo Zagreb"
+"Ivanusec Luka	7	23	K�z�pp�ly�s	Dinamo Zagreb"
+"Ljubicic Robert	14	23	K�z�pp�ly�s	Dinamo Zagreb"
+"Misic Josip	27	28	K�z�pp�ly�s	Dinamo Zagreb"
+"Moharrami Sadegh	2	26	K�z�pp�ly�s	Dinamo Zagreb"
+"Stefulj Daniel	3	22	K�z�pp�ly�s	Dinamo Zagreb"
+"Drmic Josip	18	30	Csat�r	Dinamo Zagreb"
+"Emreli Mahir	11	25	Csat�r	Dinamo Zagreb"
+"Marin Antonio	20	21	Csat�r	Dinamo Zagreb"
+"Menalo Luka	70	26	Csat�r	Dinamo Zagreb"
+"Orsic Mislav	99	29	Csat�r	Dinamo Zagreb"
+"Petkovic Bruno	9	28	Csat�r	Dinamo Zagreb"
+"Spikic Dario	77	23	Csat�r	Dinamo Zagreb"
+"Cacic Ante	-	69	Edz�	Dinamo Zagreb"
+"Courtois Thibaut	1	30	Kapus	Real Madrid"
+"Lunin Andriy	13	23	Kapus	Real Madrid"
+"Alaba David	4	30	V�d�	Real Madrid"
+"Carvajal Daniel	2	30	V�d�	Real Madrid"
+"Fernandez Nacho	6	32	V�d�	Real Madrid"
+"Mendy Ferland	23	27	V�d�	Real Madrid"
+"Militao Eder	3	24	V�d�	Real Madrid"
+"R�diger Antonio	22	29	V�d�	Real Madrid"
+"Camavinga Eduardo	12	19	K�z�pp�ly�s	Real Madrid"
+"Ceballos Daniel	19	26	K�z�pp�ly�s	Real Madrid"
+"Kroos Toni	8	32	K�z�pp�ly�s	Real Madrid"
+"Modric Luka	10	37	K�z�pp�ly�s	Real Madrid"
+"Tchouameni Aurelien	18	22	K�z�pp�ly�s	Real Madrid"
+"Valverde Federico	15	24	K�z�pp�ly�s	Real Madrid"
+"Vazquez Lucas	17	31	K�z�pp�ly�s	Real Madrid"
+"Asensio Marco	11	26	Csat�r	Real Madrid"
+"Benzema Karim	9	34	Csat�r	Real Madrid"
+"Diaz Mariano	24	29	Csat�r	Real Madrid"
+"Hazard Eden	7	31	Csat�r	Real Madrid"
+"Rodrygo	21	21	Csat�r	Real Madrid"
+"Vinicius Junior	20	22	Csat�r	Real Madrid"
+"Ancelotti Carlo	-	63	Edz�	Real Madrid"
+"Blaswich Janis	21	31	Kapus	RB Leipzig"
+"Gul�csi P�ter	1	32	Kapus	RB Leipzig"
+"Nyland Orjan	13	32	Kapus	RB Leipzig"
+"Diallo Abdou	37	26	V�d�	RB Leipzig"
+"Gvardiol Josko	32	20	V�d�	RB Leipzig"
+"Halstenberg Marcel	23	31	V�d�	RB Leipzig"
+"Klostermann Lukas	16	26	V�d�	RB Leipzig"
+"Orban Willi	4	29	V�d�	RB Leipzig"
+"Simakan Mohamed	2	22	V�d�	RB Leipzig"
+"Haidara Amadou	8	24	K�z�pp�ly�s	RB Leipzig"
+"Henrichs Benjamin	39	25	K�z�pp�ly�s	RB Leipzig"
+"Kampl Kevin	44	32	K�z�pp�ly�s	RB Leipzig"
+"Laimer Konrad	27	25	K�z�pp�ly�s	RB Leipzig"
+"Nkunku Christopher	18	24	K�z�pp�ly�s	RB Leipzig"
+"Olmo Dani	7	24	K�z�pp�ly�s	RB Leipzig"
+"Raum David	22	24	K�z�pp�ly�s	RB Leipzig"
+"Schlager Xaver	24	25	K�z�pp�ly�s	RB Leipzig"
+"Szoboszlai Dominik	17	22	K�z�pp�ly�s	RB Leipzig"
+"Forsberg Emil	10	31	Csat�r	RB Leipzig"
+"Novoa Ramos Hugo	38	19	Csat�r	RB Leipzig"
+"Poulsen Yussuf	9	28	Csat�r	RB Leipzig"
+"Silva Andre	19	26	Csat�r	RB Leipzig"
+"Werner Timo	11	26	Csat�r	RB Leipzig"
+"Rose Marco	-	46	Edz�	RB Leipzig"
+"Trubin Anatolii	81	21	Kapus	Sahtar Donyeck"
+"Bondar Valeriy	5	23	V�d�	Sahtar Donyeck"
+"Konoplya Yukhym	26	23	V�d�	Sahtar Donyeck"
+"Korniienko Viktor	99	23	V�d�	Sahtar Donyeck"
+"Kryvtsov Sergiy	4	31	V�d�	Sahtar Donyeck"
+"Lucas Taylor	23	27	V�d�	Sahtar Donyeck"
+"Matviienko Mykola	22	26	V�d�	Sahtar Donyeck"
+"Bondarenko Artem	21	22	K�z�pp�ly�s	Sahtar Donyeck"
+"Djurasek Neven	17	24	K�z�pp�ly�s	Sahtar Donyeck"
+"Kryskiv Dmytro	16	22	K�z�pp�ly�s	Sahtar Donyeck"
+"Mykhaylichenko Bogdan	15	25	K�z�pp�ly�s	Sahtar Donyeck"
+"Nazaryna Yehor	29	25	K�z�pp�ly�s	Sahtar Donyeck"
+"Ocheretko Oleg	27	19	K�z�pp�ly�s	Sahtar Donyeck"
+"Stepanenko Taras	6	33	K�z�pp�ly�s	Sahtar Donyeck"
+"Sudakov Georgiy	8	20	K�z�pp�ly�s	Sahtar Donyeck"
+"Totovytsky Andriy	7	29	K�z�pp�ly�s	Sahtar Donyeck"
+"Mudryk Mykhailo	10	21	Csat�r	Sahtar Donyeck"
+"Petrjak Ivan	34	28	Csat�r	Sahtar Donyeck"
+"Shved Marian	9	25	Csat�r	Sahtar Donyeck"
+"Sikan Danylo	14	21	Csat�r	Sahtar Donyeck"
+"Traore Lassina	2	21	Csat�r	Sahtar Donyeck"
+"Zubkov Oleksandr	11	26	Csat�r	Sahtar Donyeck"
+"Jovicevic Igor	-	48	Edz�	Sahtar Donyeck"
+"Vlachodimos Odysseas	99	28	Kapus	Benfica"
+"Bah Alexander	6	24	V�d�	Benfica"
+"Brooks John	25	29	V�d�	Benfica"
+"Gilberto	2	29	V�d�	Benfica"
+"Grimaldo Alejandro	3	27	V�d�	Benfica"
+"Morato	31	21	V�d�	Benfica"
+"Otamendi Nicolas	30	34	V�d�	Benfica"
+"Ristic Mihailo	23	27	V�d�	Benfica"
+"Silva Antonio	66	19	V�d�	Benfica"
+"Aursnes Fredrik	8	26	K�z�pp�ly�s	Benfica"
+"Chiquinho	22	27	K�z�pp�ly�s	Benfica"
+"Draxler Julian	93	29	K�z�pp�ly�s	Benfica"
+"Fernandez Enzo	13	21	K�z�pp�ly�s	Benfica"
+"Florentino	61	23	K�z�pp�ly�s	Benfica"
+"Joao Mario	20	29	K�z�pp�ly�s	Benfica"
+"Rafa Silva	27	29	K�z�pp�ly�s	Benfica"
+"Goncalves Diogo	17	25	Csat�r	Benfica"
+"Henrique Araujo	39	20	Csat�r	Benfica"
+"Musa Petar	33	24	Csat�r	Benfica"
+"Neres David	7	25	Csat�r	Benfica"
+"Pinho Rodrigo	18	31	Csat�r	Benfica"
+"Ramos Goncalo	88	21	Csat�r	Benfica"
+"Schmidt Roger	-	55	Edz�	Benfica"
+"Donnarumma Gianluigi	99	23	Kapus	PSG"
+"Bernat Juan	14	29	V�d�	PSG"
+"Bitshiabu El Chadaille	31	17	V�d�	PSG"
+"Hakimi Achraf	2	24	V�d�	PSG"
+"Kimpembe Presnel	3	27	V�d�	PSG"
+"Marquinhos	5	28	V�d�	PSG"
+"Mendes Nuno	25	20	V�d�	PSG"
+"Mukiele Nordi	26	25	V�d�	PSG"
+"Ramos Sergio	4	36	V�d�	PSG"
+"Pereira Danilo	15	31	K�z�pp�ly�s	PSG"
+"Ruiz Fabian	8	26	K�z�pp�ly�s	PSG"
+"Sanches Renato	18	25	K�z�pp�ly�s	PSG"
+"Sarabia Pablo	19	30	K�z�pp�ly�s	PSG"
+"Soler Carlos	28	25	K�z�pp�ly�s	PSG"
+"Verratti Marco	6	30	K�z�pp�ly�s	PSG"
+"Vitinha	17	22	K�z�pp�ly�s	PSG"
+"Zaire-Emery Warren	33	16	K�z�pp�ly�s	PSG"
+"Ekitike Hugo	44	20	Csat�r	PSG"
+"Mbappe Kylian	7	23	Csat�r	PSG"
+"Messi Lionel	30	35	Csat�r	PSG"
+"Neymar	10	30	Csat�r	PSG"
+"Galtier Christophe	-	56	Edz�	PSG"
+"Perin Mattia	36	29	Kapus	Juventus"
+"Szczesny Wojciech	1	32	Kapus	Juventus"
+"Alex Sandro	12	31	V�d�	Juventus"
+"Bonucci Leonardo	19	35	V�d�	Juventus"
+"Bremer	3	25	V�d�	Juventus"
+"Cuadrado Juan	11	34	V�d�	Juventus"
+"Danilo	6	31	V�d�	Juventus"
+"De Sciglio Mattia	2	30	V�d�	Juventus"
+"Gatti Federico	15	24	V�d�	Juventus"
+"Rugani Daniele	24	28	V�d�	Juventus"
+"Fagioli Nicolo	44	21	K�z�pp�ly�s	Juventus"
+"Locatelli Manuel	5	24	K�z�pp�ly�s	Juventus"
+"McKennie Weston	8	24	K�z�pp�ly�s	Juventus"
+"Miretti Fabio	20	19	K�z�pp�ly�s	Juventus"
+"Paredes Leandro	32	28	K�z�pp�ly�s	Juventus"
+"Rabiot Adrien	25	27	K�z�pp�ly�s	Juventus"
+"Chiesa Federico	7	25	Csat�r	Juventus"
+"Di Maria Angel	22	34	Csat�r	Juventus"
+"Iling Samuel	43	19	Csat�r	Juventus"
+"Kean Moise	18	22	Csat�r	Juventus"
+"Kostic Filip	17	30	Csat�r	Juventus"
+"Milik Arkadiusz	14	28	Csat�r	Juventus"
+"Soule Matias	30	19	Csat�r	Juventus"
+"Vlahovic Dusan	9	22	Csat�r	Juventus"
+"Allegri Massimiliano	-	55	Edz�	Juventus"
+"Cohen Josh	44	30	Kapus	Maccabi Haifa"
+"Mishpati Roi	90	29	Kapus	Maccabi Haifa"
+"Arad Ofri	15	24	V�d�	Maccabi Haifa"
+"Batubinsika Dylan	19	26	V�d�	Maccabi Haifa"
+"Cornud Pierre	21	25	V�d�	Maccabi Haifa"
+"Eliyahu Inon	36	29	V�d�	Maccabi Haifa"
+"Gershon Rami	55	34	V�d�	Maccabi Haifa"
+"Goldberg Shon	3	27	V�d�	Maccabi Haifa"
+"Seck Abdoulaye	30	30	V�d�	Maccabi Haifa"
+"Sundgren Daniel	2	31	V�d�	Maccabi Haifa"
+"Abu Fani Mohammed	16	24	K�z�pp�ly�s	Maccabi Haifa"
+"Atzili Omer	7	29	K�z�pp�ly�s	Maccabi Haifa"
+"Chery Tjarron	10	34	K�z�pp�ly�s	Maccabi Haifa"
+"Lavi Neta	6	26	K�z�pp�ly�s	Maccabi Haifa"
+"Levi Maor	33	22	K�z�pp�ly�s	Maccabi Haifa"
+"Meir Raz	22	25	K�z�pp�ly�s	Maccabi Haifa"
+"Menahem Sun	12	29	K�z�pp�ly�s	Maccabi Haifa"
+"Mohamed Ali	4	27	K�z�pp�ly�s	Maccabi Haifa"
+"David Dean	21	26	Csat�r	Maccabi Haifa"
+"Haziza Dolev	8	27	Csat�r	Maccabi Haifa"
+"Pierrot Frantzdy	9	25	Csat�r	Maccabi Haifa"
+"Rukavytsya Nikita	13	35	Csat�r	Maccabi Haifa"
+"Tchibota Mavis	11	26	Csat�r	Maccabi Haifa"
+"Bakhar Barak	-	43	Edz�	Maccabi Haifa"
+"Pasveer Remko	22	38	Kapus	Ajax"
+"Alvarez Edson	4	25	V�d�	Ajax"
+"Baas Youri	25	19	V�d�	Ajax"
+"Bassey Calvin	3	22	V�d�	Ajax"
+"Magallan Lisandro	29	29	V�d�	Ajax"
+"Rensch Devyne	15	19	V�d�	Ajax"
+"Sanchez Jorge	19	24	V�d�	Ajax"
+"Timber Jurrien	2	21	V�d�	Ajax"
+"Wijndal Owen	5	22	V�d�	Ajax"
+"Berghuis Steven	23	30	K�z�pp�ly�s	Ajax"
+"Bergwijn Steven	7	25	K�z�pp�ly�s	Ajax"
+"Blind Daley	17	32	K�z�pp�ly�s	Ajax"
+"Conceicao Francisco	35	19	K�z�pp�ly�s	Ajax"
+"Grillitsch Florian	21	27	K�z�pp�ly�s	Ajax"
+"Klaassen Davy	6	29	K�z�pp�ly�s	Ajax"
+"Kudus Mohammed	20	22	K�z�pp�ly�s	Ajax"
+"Taylor Kenneth	8	20	K�z�pp�ly�s	Ajax"
+"Brobbey Brian	9	20	Csat�r	Ajax"
+"Lucca Lorenzo	18	22	Csat�r	Ajax"
+"Ocampos Lucas	11	28	Csat�r	Ajax"
+"Tadic Dusan	10	33	Csat�r	Ajax"
+"Schreuder Alfred	-	50	Edz�	Ajax"
+"Diogo Costa	99	23	Kapus	FC Porto"
+"Cardoso Fabio	2	28	V�d�	FC Porto"
+"Carmo David	4	23	V�d�	FC Porto"
+"Conceicao Rodrigo	17	22	V�d�	FC Porto"
+"Marcano Ivan	5	35	V�d�	FC Porto"
+"Pepe	3	39	V�d�	FC Porto"
+"Wendell	22	29	V�d�	FC Porto"
+"Zaidu	12	25	V�d�	FC Porto"
+"Eustaquio Stephen	46	25	K�z�pp�ly�s	FC Porto"
+"Franco Andre	20	24	K�z�pp�ly�s	FC Porto"
+"Galeno	13	25	K�z�pp�ly�s	FC Porto"
+"Grujic Marko	16	26	K�z�pp�ly�s	FC Porto"
+"Joao Mario	23	22	K�z�pp�ly�s	FC Porto"
+"Otavio	25	27	K�z�pp�ly�s	FC Porto"
+"Uribe Mateus	8	31	K�z�pp�ly�s	FC Porto"
+"Borges Goncalo	70	21	Csat�r	FC Porto"
+"Bruno Costa	28	25	Csat�r	FC Porto"
+"Evanilson	30	23	Csat�r	FC Porto"
+"Gabriel Veron	7	20	Csat�r	FC Porto"
+"Loader Daniel	19	22	Csat�r	FC Porto"
+"Martinez Toni	29	25	Csat�r	FC Porto"
+"Pep?	11	25	Csat�r	FC Porto"
+"Taremi Mehdi	9	30	Csat�r	FC Porto"
+"Conceicao Sergio	-	47	Edz�	FC Porto"
+"Mignolet Simon	22	34	Kapus	FC Porto"
+"Balanta Eder	3	29	V�d�	FC Porto"
+"Boyata Dedryck	28	31	V�d�	FC Porto"
+"Mbamba Noah	72	17	V�d�	FC Porto"
+"Mechele Brandon	44	29	V�d�	FC Porto"
+"Meijer Bjorn	14	19	V�d�	FC Porto"
+"Odoi Denis	6	34	V�d�	FC Porto"
+"Sobol Eduard	2	27	V�d�	FC Porto"
+"Spileers Jorne	3	17	V�d�	FC Porto"
+"Sylla Abakar	94	19	V�d�	FC Porto"
+"Audoor Lynnt	89	19	K�z�pp�ly�s	FC Porto"
+"Buchanan Tajon	17	23	K�z�pp�ly�s	FC Porto"
+"Clinton Mata	77	29	K�z�pp�ly�s	FC Porto"
+"Lang Noa	10	23	K�z�pp�ly�s	FC Porto"
+"Nielsen Casper	27	28	K�z�pp�ly�s	FC Porto"
+"Onyedika Raphael	15	21	K�z�pp�ly�s	FC Porto"
+"Otasowie Owen	6	21	K�z�pp�ly�s	FC Porto"
+"Sandra Cisse	98	18	K�z�pp�ly�s	FC Porto"
+"Skov Olsen Andreas	7	22	K�z�pp�ly�s	FC Porto"
+"Sowah Kamal	19	22	K�z�pp�ly�s	FC Porto"
+"Vanaken Hans	20	30	K�z�pp�ly�s	FC Porto"
+"Vormer Ruud	25	34	K�z�pp�ly�s	FC Porto"
+"Jutgla Ferran	9	23	Csat�r	FC Porto"
+"Larin Cyle	11	27	Csat�r	FC Porto"
+"Nusa Antonio	32	17	Csat�r	FC Porto"
+"Yaremchuk Roman	70	26	Csat�r	FC Porto"
+"Hoefkens Carl	-	44	Edz�	FC Porto"
+"Hradecky Lukas	1	32	Kapus	Leverkusen"
+"Lunev Andrey	40	30	Kapus	Leverkusen"
+"Bakker Mitchel	5	22	V�d�	Leverkusen"
+"Fosu-Mensah Timothy	24	24	V�d�	Leverkusen"
+"Frimpong Jeremie	30	21	V�d�	Leverkusen"
+"Hincapie Piero	3	20	V�d�	Leverkusen"
+"Kossounou Odilon	6	22	V�d�	Leverkusen"
+"Sinkgraven Daley	22	27	V�d�	Leverkusen"
+"Tah Jonathan	4	26	V�d�	Leverkusen"
+"Tapsoba Edmond	12	23	V�d�	Leverkusen"
+"Adli Amine	21	22	K�z�pp�ly�s	Leverkusen"
+"Amiri Nadiem	11	26	K�z�pp�ly�s	Leverkusen"
+"Andrich Robert	8	28	K�z�pp�ly�s	Leverkusen"
+"Aranguiz Charles	20	33	K�z�pp�ly�s	Leverkusen"
+"Bellarabi Karim	38	32	K�z�pp�ly�s	Leverkusen"
+"Demirbay Kerem	10	29	K�z�pp�ly�s	Leverkusen"
+"Hudson-Odoi Callum	17	21	K�z�pp�ly�s	Leverkusen"
+"Palacios Exequiel	25	24	K�z�pp�ly�s	Leverkusen"
+"Azmoun Sardar	9	27	Csat�r	Leverkusen"
+"Diaby Moussa	19	23	Csat�r	Leverkusen"
+"Hlozek �d�m	23	20	Csat�r	Leverkusen"
+"Paulinho	7	22	Csat�r	Leverkusen"
+"Schick Patrik	14	26	Csat�r	Leverkusen"
+"Alonso Xabi	-	40	Edz�	Leverkusen"
+"Grbic Ivo	1	26	Kapus	Atletico Madrid"
+"Oblak Jan	13	29	Kapus	Atletico Madrid"
+"Felipe	18	33	V�d�	Atletico Madrid"
+"Gimenez Jose Maria	2	27	V�d�	Atletico Madrid"
+"Hermoso Mario	22	27	V�d�	Atletico Madrid"
+"Mandava Reinildo	23	28	V�d�	Atletico Madrid"
+"Molina Nahuel	16	24	V�d�	Atletico Madrid"
+"Savic Stefan	15	31	V�d�	Atletico Madrid"
+"Barrios Pablo	34	19	K�z�pp�ly�s	Atletico Madrid"
+"Correa Angel	10	27	K�z�pp�ly�s	Atletico Madrid"
+"Koke	6	30	K�z�pp�ly�s	Atletico Madrid"
+"Kondogbia Geoffrey	4	29	K�z�pp�ly�s	Atletico Madrid"
+"Lemar Thomas	11	26	K�z�pp�ly�s	Atletico Madrid"
+"Llorente Marcos	14	27	K�z�pp�ly�s	Atletico Madrid"
+"Niguez Saul	17	27	K�z�pp�ly�s	Atletico Madrid"
+"Witsel Axel	20	33	K�z�pp�ly�s	Atletico Madrid"
+"de Paul Rodrigo	5	28	K�z�pp�ly�s	Atletico Madrid"
+"Carrasco Yannick	21	29	Csat�r	Atletico Madrid"
+"Griezmann Antoine	8	31	Csat�r	Atletico Madrid"
+"Joao Felix	7	22	Csat�r	Atletico Madrid"
+"Matheus Cunha	9	23	Csat�r	Atletico Madrid"
+"Morata Alvaro	18	30	Csat�r	Atletico Madrid"
+"Simeone Diego	-	52	Edz�	Atletico Madrid"
