@@ -7,5 +7,5 @@ def menu():
         print("3-új")
         print("4-törlés")
         print("5-Módosítás")
-        option = int(input("Válasszon a fentiek közül"))
+        option = int(input("Válasszon a fentiek közül:"))
     return option
