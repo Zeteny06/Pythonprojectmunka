@@ -1,5 +1,5 @@
 from menu import menu
-from filehandling import Csapatok
+from fileHandling import Csapatok
 from randomgroups import groups
 
 choice = -1
