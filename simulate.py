@@ -14,22 +14,22 @@ def gol():
         return 5
 
 
-def szimulator(allgroup):
-    for group in allgroup:
-        x = group
-        splitted = x.split("/")
-        for x in splitted:
-            for y in splitted:
-                nyert= []
-                if splitted[x] == splitted[y]:
-                    pass
-                else:
+def szimulator():
+    f = open("Pythonprojectmunka\csoportok.csv","r",encoding="UTF8")
+    csapatfile = open("Pythonprojectmunka\eredmenyek.csv","w",encoding="UTF8")
+    for index, group in enumerate(f):
+        splitted = group.strip().split(";")
+        for csapat1 in splitted:
+            for csapat2 in splitted:
+                if csapat1 != csapat2:
                     hazai = gol()
                     vendeg = gol()
-                    if hazai > vendeg:
-                        nyert.append[x]
-                    elif hazai < vendeg:
-                        nyert.append[y]
-                    else:
-                        nyert.append[x,y]
-    print(nyert)
+                    # if hazai > vendeg:
+                    #     nyert.append(csapat1)
+                    # elif hazai < vendeg:
+                    #     nyert.append(csapat2)
+                    # else:
+                    #     nyert.append(csapat1,csapat2)
+                    csapatfile.write(f"{index};{hazai};{vendeg};{csapat1};{csapat2}\n")
+    csapatfile.close()
+    f.close()

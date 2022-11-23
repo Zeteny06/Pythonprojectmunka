@@ -10,6 +10,6 @@ while choice != 0:
         teams =Csapatok()
         groups(teams,int(len(teams)/4))
         print(len(teams))
-        szimulator(groups(teams,int(len(teams)/4)))
+        szimulator()
 
 
