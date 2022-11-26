@@ -54,8 +54,7 @@ def groupwinner(csoportszám):
             elif int(splitteddata[1]) == int(splitteddata[2]):
                 pontok[splitteddata[3]] += 1
                 pontok[splitteddata[4]] += 1
-        else:
-            break
+        
     print(pontok)
     pont = 0
     csapat =[]
@@ -76,3 +75,5 @@ def groupwinner(csoportszám):
 def filedelete():
     csoportnyertes = open("csoportnyertes.csv","w",encoding="UTF8")
     csoportnyertes.close()
+
+

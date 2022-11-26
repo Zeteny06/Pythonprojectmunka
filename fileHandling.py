@@ -10,5 +10,12 @@ def Csapatok():
             teams.append(y) 
     f.close()
     return teams
+def nyolcad():
+    nyolcad = []
+    f = open("csoportnyertes.csv","r",encoding="UTF8")
+    for row in f:
+        x = row.strip("\n")
+        nyolcad.append(x)
+    return nyolcad
 
     
