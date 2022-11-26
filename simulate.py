@@ -45,16 +45,15 @@ def groupwinner(csoportszám):
     for x in csapatok:
         pontok.update({x:0})
     for row in f:
-        splitteddata = row.strip().split(";")
-        if int(splitteddata[0]) ==csoportszám:   
-            if int(splitteddata[0]) == csoportszám:
-                if int(splitteddata[1]) > int(splitteddata[2]):
-                    pontok[splitteddata[3]] += 3
-                elif int(splitteddata[1]) < int(splitteddata[2]):
-                    pontok[splitteddata[4]] += 3
-                elif int(splitteddata[1]) == int(splitteddata[2]):
-                    pontok[splitteddata[3]] += 1
-                    pontok[splitteddata[4]] += 1
+        splitteddata = row.strip().split(";")  
+        if int(splitteddata[0]) == csoportszám:
+            if int(splitteddata[1]) > int(splitteddata[2]):
+                pontok[splitteddata[3]] += 3
+            elif int(splitteddata[1]) < int(splitteddata[2]):
+                pontok[splitteddata[4]] += 3
+            elif int(splitteddata[1]) == int(splitteddata[2]):
+                pontok[splitteddata[3]] += 1
+                pontok[splitteddata[4]] += 1
         else:
             break
     print(pontok)
@@ -77,14 +76,3 @@ def groupwinner(csoportszám):
 def filedelete():
     csoportnyertes = open("csoportnyertes.csv","w",encoding="UTF8")
     csoportnyertes.close()
-            
-
-            
-
-
-    
-
-    
-
-
-        
