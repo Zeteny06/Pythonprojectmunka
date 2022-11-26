@@ -11,5 +11,11 @@ while choice != 0:
         groups(teams,int(len(teams)/4))
         print(len(teams))
         szimulator()
+        filedelete()
+        csoportszám = 0
+        while csoportszám != len(teams)/4:
+            groupwinner(csoportszám)
+            csoportszám+=1
+            
 
 

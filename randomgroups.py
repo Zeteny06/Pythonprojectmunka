@@ -10,7 +10,7 @@ def groups(csapatok, Csoportszam):
     print(all_groups)
     for index, group in enumerate(all_groups):
         print(f"Csoport {index+1}: {' / '.join(group)}\n")
-    f = open("Pythonprojectmunka\csoportok.csv","w",encoding="UTF8")
+    f = open("csoportok.csv","w",encoding="UTF8")
     for row in all_groups:
         y = ""
         for x in row:

@@ -1,6 +1,6 @@
 def Csapatok():
     teams = []
-    f = open("Pythonprojectmunka\Játékosok.csv","r",encoding="utf8")
+    f = open("Játékosok.csv","r",encoding="utf8")
     f.readline()
     for row in f:
         splitted = row.split(";")
