@@ -18,4 +18,8 @@ def nyolcad():
         nyolcad.append(x)
     return nyolcad
 
+def golperteamFileDelete():
+    f= open("GOL.csv","w",encoding="UTF8")
+    f.close()
+
     

@@ -3,7 +3,7 @@ from fileHandling import *
 from randomgroups import groups
 from simulate import *
 from search import *
-
+golperteamFileDelete()
 choice = -1
 while choice != 0:
     choice = menu()
@@ -30,6 +30,7 @@ while choice != 0:
         szimulator()
         filedelete()
         groupwinner(0)
+        goalcounter()
     elif choice == 2:
         x = -1
         while x != 0:
