@@ -35,6 +35,68 @@ def mezszam():
     for person in people:
         print(f"\t{person}")
 def kor():
-    pass
-def poz():
-    pass
+    people = []
+    kor = int(input("Add meg az életkort:"))
+    f = open("Játékosok.csv","r",encoding="UTF8")
+    f.readline()
+    for row in f:
+        data = row.strip().split(";")
+        if int(data[2]) == kor :
+            people.append(data[0])
+    for person in people:
+        print(f"\t{person}")
+def legfiatalabb():
+    people = []
+    f = open("Játékosok.csv","r",encoding="UTF8")
+    f.readline()
+    compareable = 9999
+    for row in f:
+        data = row.strip().split(";")
+        if int(data[2]) == compareable:
+            people.append(data[0])
+        elif int(data[2]) < compareable :
+            people.clear()
+            people.append(data[0])
+            compareable = int(data[2])
+    for person in people:
+        print(f"\t{person}:{compareable}")
+def Legidosebb():
+    people = []
+    f = open("Játékosok.csv","r",encoding="UTF8")
+    f.readline()
+    compareable = -1
+    for row in f:
+        data = row.strip().split(";")
+        if data[3]!= "Edző":
+            if int(data[2]) == compareable:
+                people.append(data[0])
+            elif int(data[2]) > compareable :
+                people.clear()
+                people.append(data[0])
+                compareable = int(data[2])
+            else:
+                pass
+    for person in people:
+        print(f"\t{person}:{compareable}")
+def inbetween():
+    kezdes = int(input("Add meg a minimum életkort:"))
+    befejezes = int(input("Add meg a maximum életkort:"))
+    people = []
+    f = open("Játékosok.csv","r",encoding="UTF8")
+    f.readline()
+    for row in f:
+        data = row.strip().split(";")
+        if int(data[2]) >= kezdes and int(data[2]) <= befejezes:
+            people.append(data[0])
+    for person in people:
+        print(f"\t{person}")
+def poz(position):
+    people = []
+    f = open("Játékosok.csv","r",encoding="UTF8")
+    f.readline()
+    for row in f:
+        data = row.strip().split(";")
+        if data[3] == position:
+            people.append(data[0])
+    for person in people:
+        print(f"\t{person}")

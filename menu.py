@@ -19,3 +19,9 @@ def choice2submenu():
         print("0.Vissza\n1.Legfiatalabbak\n2.Legidősebb\n3.Pontos keresés\n4.Két életkor között")
         option =int(input("Válassz: "))
     return option
+def choice2submenu2():
+    option = -1
+    while option < 0 or option > 4:
+        print("0.Vissza\n1.Védő\n2.Középpályás\n3.Csatár\n4.Edző")
+        option =int(input("Válassz: "))
+    return option

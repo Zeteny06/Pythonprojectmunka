@@ -43,9 +43,34 @@ while choice != 0:
             elif x == 3:
                 mezszam()
             elif x == 4:
-                kor()
+                y = -1
+                while y !=0:
+                    y = choice2submenu()
+                    if y == 0:
+                        pass   
+                    elif y == 1:
+                        legfiatalabb()
+                    elif y == 2:
+                        Legidosebb()
+                    elif y == 3:
+                        kor()
+                    elif y == 4:
+                        inbetween()
             elif x == 5:
-                poz()
+                z = -1
+                while z !=0:
+                    z = choice2submenu2()
+                    if z ==0:
+                        pass
+                    elif z ==1:
+                        poz("Védő")
+                    elif z ==2:
+                        poz("Középpályás")
+                    elif z ==3:
+                        poz("Csatár")
+                    elif z ==4:
+                        poz("Edző")
+                
             
         
 
