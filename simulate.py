@@ -114,6 +114,11 @@ def goalcounter():
     for x in sort:
         print(x)
 
+def nyero():
+    f = open("csoportnyertes.csv","r",encoding="UTF8")
+    for row in f:
+        print(f"{row.strip()} nyert")
+
     
 
 

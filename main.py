@@ -8,6 +8,7 @@ choice = -1
 while choice != 0:
     choice = menu()
     if choice == 1:
+        golperteamFileDelete()
         teams =Csapatok()
         groups(teams,int(len(teams)/4))
         print(len(teams))
@@ -30,7 +31,7 @@ while choice != 0:
         szimulator()
         filedelete()
         groupwinner(0)
-        goalcounter()
+        nyero()
     elif choice == 2:
         x = -1
         while x != 0:
@@ -71,6 +72,8 @@ while choice != 0:
                         poz("Csatár")
                     elif z ==4:
                         poz("Edző")
+    elif choice == 3:
+        goalcounter()
                 
             
         
