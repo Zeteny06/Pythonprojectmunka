@@ -11,7 +11,7 @@ while choice != 0:
         golperteamFileDelete()
         teams =Csapatok()
         groups(teams,int(len(teams)/4))
-        print(len(teams))
+        print(f"Csapatok száma{len(teams)}")
         szimulator()
         filedelete()
         csoportszám = 0
